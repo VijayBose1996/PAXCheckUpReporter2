@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PAX CheckUp Reporter</string>
+    <string name="title_home">PAX CheckUp Reporter</string>
+    <string name="title_tests">All Tests</string>
+    <string name="title_report">Generate Report</string>
+    <string name="title_test_detail">Test Detail</string>
+    <string name="hint_technician">Technician Name</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_notes">Notes / Observations</string>
+    <string name="btn_pass">PASS</string>
+    <string name="btn_fail">FAIL</string>
+    <string name="btn_skip">SKIP</string>
+    <string name="btn_reset">RESET</string>
+    <string name="btn_generate_pdf">Generate PDF Report</string>
+    <string name="btn_share">Share PDF</string>
+    <string name="btn_view_all_tests">View All Tests</string>
+    <string name="msg_pdf_success">PDF Generated Successfully!</string>
+    <string name="msg_pdf_generating">Generating PDF…</string>
+    <string name="tip_checkup_app">Tip: Open PAX CheckUp app and run the test. Then come back and mark the result here.</string>
+    <string name="overall_status">Overall Status</string>
+    <string name="pass_rate">Pass Rate</string>
+    <string name="failed_tests">Failed Tests</string>
+    <string name="not_tested">Not Yet Tested</string>
+    <string name="device_info">Device Information</string>
+    <string name="test_summary">Test Summary</string>
+    <string name="test_categories">Test Categories</string>
+    <string name="progress">Progress</string>
+</resources>
